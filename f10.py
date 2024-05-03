@@ -1,2 +1,2 @@
-print("Trigger the free style project")
+print("Trigger the free style projectt")
 print("Trigger CI/CD pipline")
